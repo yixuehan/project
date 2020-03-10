@@ -1,0 +1,3 @@
+[submodule "errCode"]
+	path = errCode
+	url = https://github.com/wangkaiX/errCode.git

@@ -1,0 +1,9 @@
+bin
+lib
+*.pb.cc
+*.pb.h
+a.out
+obj
+depend
+/include/boost
+log
